@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: rgb(255, 0, 0);
+    
+}
+.heading{
+    background-color: cyan;
+    width: 1000px;
+    height: 50px;
+    
+}
+.body{
+    background-color: indigo;
+    width: 450px;
+    height:450px;
+    font-size: medium;
+    float: left;
+    margin: 10px;
+}
+.body2{
+    background-color: rgb(198, 119, 255);
+    width: 450px;
+    height:450px;
+    font-size: medium;
+    float: left;
+    margin: 10px;
+    
+}
