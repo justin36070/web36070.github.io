@@ -53,4 +53,7 @@ nav{
   position: fixed;
   bottom: 0;
   width: 100%;
+  float: left;
+    margin: 10px;
+    Border-radius: 10px;
 }    
