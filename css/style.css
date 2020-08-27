@@ -97,7 +97,5 @@ nav{
 br{
     width: 100%;
     height: 200px; 
-    overflow: hidden;
-    position: fixed;
-    bottom: 0; 
+     
 }
