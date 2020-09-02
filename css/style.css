@@ -99,3 +99,22 @@ br{
     height: 200px; 
      
 }
+.home-blacklivesmatter-banner {
+    font-size: 130%;
+    background-color: #333;
+    padding: 5px 15px;
+    border-radius: 2px;
+    margin-top: 1em;
+}
+.home-blacklivesmatter {
+    padding-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
