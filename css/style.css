@@ -133,5 +133,8 @@ body {
      
 }
 a:visited {
-    color: #002bb8;
+    color: white;
+}
+ul {
+  color: white  
 }
