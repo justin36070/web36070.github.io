@@ -117,6 +117,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    color: #FF0000; 
 }
 #home-intro {
     max-width: 735px;
