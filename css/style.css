@@ -6,6 +6,7 @@ h1{
     }
 h2{
     color: #e4c3ad;
+    text-align: center;
 }
 .heading{
     background-color: cyan;
@@ -95,6 +96,7 @@ nav{
 {
     margin-left: 2px;
     margin-top: 2px;
+    text-align: center;
 }
 br{
     width: 100%;
