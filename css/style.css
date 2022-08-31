@@ -3,7 +3,9 @@ body{
 }
 h1{
     color: rgb(0, 0, 0);
-    
+    }
+h2{
+    color: #e4c3ad;
 }
 .heading{
     background-color: cyan;
